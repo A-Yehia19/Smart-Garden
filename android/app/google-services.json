@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968342899847",
+    "project_id": "smart-garden-98377",
+    "storage_bucket": "smart-garden-98377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968342899847:android:55d55770c54c7312a8bc22",
+        "android_client_info": {
+          "package_name": "com.example.daq_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968342899847-84b2nvakp2eqt4dj0f4g7rl6prr0h4rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZBbdirBy6LnywpfZwpkeLYfSAu3IMfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968342899847-84b2nvakp2eqt4dj0f4g7rl6prr0h4rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
